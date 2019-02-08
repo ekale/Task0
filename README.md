@@ -1,4 +1,5 @@
 # Task0
+## Client side
 ### Client accept a number or word fron the user.
 ### 1.Scanner Object is needed.
 #### Scanner sc = new Scanner(System.in);
