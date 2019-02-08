@@ -10,7 +10,7 @@
 Socket s = new Socket(12345,"127.0.0.1")
 ### 3. Accepting something from the server.
 #### Scanner sc1 = new Scanner(s.getInputStream());
-### 4 . Accept number or word from the user.
+### 4 . Enter number or word from the user.
 System.out.println("Enter a number");
 #### use Scanner to accept the number.
 number = sc.nextInt();
