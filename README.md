@@ -16,9 +16,13 @@ System.out.println("Enter a number");
 number = sc.nextInt();
 #### store the number in a number variable
 int number;
-### 5 passing the number to the Server.create a printStream object.
+### 5 . passing the number to the Server.create a printStream object.
 PrintStream p = new PrintStream(s.getOutputStream());
 #### passing the number to the client.
 p.println(number);
+#### Accepting and printing out the result.
+Create another int to store the result
+int temp = sc1.nextInt();
+System.out.println(temp);
 
 
